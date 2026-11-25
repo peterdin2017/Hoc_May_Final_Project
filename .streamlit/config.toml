@@ -1,0 +1,12 @@
+[theme.light]
+primaryColor = "#0F766E"
+
+[theme.dark]
+primaryColor = "#2DD4BF"
+
+[theme]
+font = "sans serif"
+baseRadius = "large"
+
+[browser]
+gatherUsageStats = false
